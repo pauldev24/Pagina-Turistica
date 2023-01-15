@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="estilos/flexslider.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="estilos/principal.css">
+	<link rel="stylesheet" type="text/css" href="estilos/cabecera.css">
+	<link rel="stylesheet" type="text/css" href="estilos/piedepagina.css">
+	<link rel="stylesheet" type="text/css" href="estilos/ventanas.css">
+	<link rel="stylesheet" type="text/css" href="estilos/mimemu.css">
+	<link rel="stylesheet" type="text/css" href="estilos/habitaciones.css">
+	<link rel="icon" href="https://drive.google.com/uc?export=view&id=1cnk6gbnayWu2GmzPUI0KTDMbpVYnaeYK" sizes="32x32">
+	<meta name="msapplication-TileImage" content="https://drive.google.com/uc?export=view&id=1cnk6gbnayWu2GmzPUI0KTDMbpVYnaeYK">
+	<script type="text/javascript" src="js/jquery-3.3.3.1.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="js/ventanas.js"></script>
+	<title>Hotel - Habitaciones y Suites</title>
+</head>
+<body>
+<div class="ir-arriba"><img src="img/flecha.png"></div>
+<div class="botonera">
+		<a href=""><div class="bot-1"><h2>Solicitar Reserva</h2></div></a>
+		<a href="ubicacion.html"><div class="bot-2"><h2>Contactenos</h2></div></a>
+</div>
+<img src="img/habi.jpeg" class="fondo">
+<header id="habitacionh">
+	<table id="contacto">
+		<tr id="iconoscon">
+			<td style="width: 90%; padding-left: 15em;"><a href="https://www.instagram.com/elangelelegante/?hl=es-la" target=”_blank”><img src="https://drive.google.com/uc?export=view&id=1nL6L_Ax7OEyI6f5qbVn7FWjulTTiWfZY"></a><a href="https://mail.google.com/" target=”_blank1”><img src="https://drive.google.com/uc?export=view&id=19P4rG6Kkae6VUQPF8lDkH7uCOqNDPVfo"></a><a href="https://www.facebook.com/Hotel-El-Angel-244182272957452/?modal=admin_todo_tour" target=”_blank2”><img src="https://drive.google.com/uc?export=view&id=1dcfsfbkj4sWdmBHaXh0n9xuV16R3XR3u"></a><a href="https://twitter.com/HotelAngel" target=”_blank3”><img src="https://drive.google.com/uc?export=view&id=11Q2-sRob8DwCh5PWI1X6aw_Cb7Kaj9gG"></a></td>
+			<td><img src="https://drive.google.com/uc?export=view&id=1oIublPMt_9JZIAvMEu8UGtDdchh6PG_z"></td>
+			<td>+51 936763066</td>
+			<td><img src="https://drive.google.com/uc?export=view&id=1iEgsJH4SYqmDFhj8RvxKdtuV3wletW1N"></td>
+			<td style="padding-right: 11em;"">ES</td>
+		</tr>
+	</table>
+	<div id="cabecera">
+		<div id="contenedornav">
+			<div class="menu_bar">
+			<a href="#" class="bt-menu">Menu<span class="icon-list2"><img src="https://drive.google.com/uc?export=view&id=1LNR3DU2rGi0D2SI9ylKAWaA_Zf5e1_1u"></span></a>
+				</div>
+				<nav class="menus">
+				<ul class="esp">
+					<li><a href="index.html"><img src="https://drive.google.com/uc?export=view&id=1cnk6gbnayWu2GmzPUI0KTDMbpVYnaeYK" id="logo"></a></li>
+					<li><a href="habitaciones.html" class="res">Habitaciones</a></li>
+					<li><a href="">Planes</a></li>
+					<li><a href="ubicacion.html">Ubicacion</a></li>
+					<li><a href="tarea1.html">Huaura</a></li>
+					<li><a href="">Galeria</a></li>
+					<li><a href="restaurante.html">Restaurante</a></li>
+					<li class="reserva"><a href=""><b>Reserva Ya</b></a></li>
+				</ul>
+				</nav>
+		</div>
+	</div>
+	<div class="resta"><h1>Habitaciones & Suites</h1><h2>Una noche inolvidable inmerso en la elegancia</h2><br><img src="https://drive.google.com/uc?export=view&id=1xIqcKtm6hcfK3rH9x1oFpPq1f2yv7cwt"></div>
+</header>
+<div id="registrohabi">
+<form method="POST" style="width: 100%;">
+	<fieldset id="formreserva">
+		<legend>Solicitud de Reservas<br><img src="https://drive.google.com/uc?export=view&id=1fbUIu1CbjqRodDyk1WRQrAKToCnLfunA"></legend>
+		<div class="cajatotal">
+		<div class="label">
+		<label for="entrada">Entrada</label>
+		</div>
+		<div class="caja">
+		<input type="date" name="entrada" value="entrada" class="sinborde">
+		</div>
+		</div>
+		<div class="cajatotal">
+		<div class="label">
+		<label for="salida">Salida</label>
+		</div>
+		<div class="caja">
+		<input type="date" name="salida" value="salida" class="sinborde">
+		</div>
+		</div>
+		<div class="cajatotal">
+		<div class="label">
+		<label for="adultos">Adultos</label>
+		</div>
+		<div class="cajanum">
+		<input type="number" min="0" max="10" placeholder=0 name="adultos" value="adultos" class="sinborde">
+		</div>
+		</div>
+		<div class="cajatotal">
+		<div class="label">
+		<label for="ninos">Niños</label>
+		</div>
+		<div class="cajanum">
+		<input type="number" min="0" max="10" placeholder=0 name="ninos" value="adultos" class="sinborde">
+		</div>
+		</div>
+		<div class="cajatotal">
+		<div class="label">
+		<label for="pago">Tipo de pago</label>
+		</div>
+		<div class="cajapago">
+		<select name="pago" class="sinborde">
+			<option selected="" value="" disabled="disabled">Pago</option>
+			<option value="visa">Visa</option>
+			<option value="mastercard">Master Card</option>
+			<option value="express">America Express</option>
+		</select>
+		</div>
+		</div>
+		<div class="cajatotal">
+			<div id="enviar">
+			<a href=""><input type="submit" name="buscar" value="Buscar" class="boton"></a>
+			</div>
+		</div>
+	</fieldset>
+</form>
+</div>
+<section>
+	
+</section>
+<footer id="adicional">
+	<div id="pie1">
+		<div class="piesecundario">
+		<div class="parte1">
+		<hr>
+		</div>
+		</div>
+		<div id="piesecundariocentro">
+			<div class="parte2">
+			<nav id="nave">
+				<ul>
+					<li><a href="habitaciones.html">Habitaciones</a></li>
+					<li><a href="">Planes</a></li>
+					<li><a href="ubicacion.html">Ubicacion</a></li>
+					<li><a href="tarea1.html">Huaura</a></li>
+					<li><a href="restaurante.html">Restaurante</a></li>
+				</ul>
+			</nav>
+			</div>
+		</div>
+		<div class="piesecundario">
+		<div class="parte1" align="left">
+		<hr>
+		</div>
+		</div>
+	</div>
+<div id="pie2">
+		<div class="piesecundario1">
+			<div class="parte3">
+			<h5>Hotel el angel</h5>
+			<p>Bienvenido al nuestro hotel la magia y esplendor de la cuidad de Huacho desde la epoca colonial ubicados en una zona muy turistica, disfrute de su elegancia y hospitalidad</p>
+			</div>
+		</div>
+		<div class="piesecundario1" >
+			<div class="parte3">
+			<h5>Contactenos</h5>
+			<p>
+				<b>Dirección:</b> Av. Cincuentenario 334 Huacho, Huaura - Peru <br>
+				<b>Restaurante:</b> (054) 275757<br>
+				<b>Recepción:</b> (+51)936763066 <br>
+				<b>Teléfono Ventas:</b> (Lun - Vie | 09h00 – 17h00):<br>
+				(01) 4729393<br>
+				<b>Correo-E:</b>  <a href="mailto:emirjr96-24@hotmail.com" style="color:#7b7777 ;""><u>emirjr96-24@hotmail.com</u></a><br>
+				<b>Facturación Electrónica</b>
+			</p>
+			</div>
+		</div>
+		<div class="piesecundario"><div class="parte3"><h5>Medios de pago</h5><a href="https://www.visa.com.co/" target=”_blank”><img src="https://drive.google.com/uc?export=view&id=1ku_0orOwssWij7FeET7AdD4R3lYCE6K7"></a><a href="https://www.mastercard.com.pe/es-pe.html" target=”_blank1”><img src="https://drive.google.com/uc?export=view&id=1RSFNPtDiqAl_HWw8aUIXrrqwZK74RUrL"></a><a href="https://www.americanexpress.com/" target=”_blank”2><img src="https://drive.google.com/uc?export=view&id=1pM9Pbb5o-dmEEIIrSzi45AkaaR4UyLE9"></a></div></div>
+		<div class="piesecundario"><div class="parte3"><h5>Siguenos en </h5><a href="https://www.facebook.com/Hotel-El-Angel-244182272957452/?modal=admin_todo_tour" target=”_blank3”><img src="https://drive.google.com/uc?export=view&id=1dcfsfbkj4sWdmBHaXh0n9xuV16R3XR3u"></a><a href="https://twitter.com/HotelAngel" target=”_blank4”><img src="https://drive.google.com/uc?export=view&id=11Q2-sRob8DwCh5PWI1X6aw_Cb7Kaj9gG"></a><a href="https://www.instagram.com/elangelelegante/?hl=es-la" target=”_blank5”><img src="https://drive.google.com/uc?export=view&id=1nL6L_Ax7OEyI6f5qbVn7FWjulTTiWfZY"></a><a href="https://mail.google.com/" target=”_blank6”><img src="https://drive.google.com/uc?export=view&id=19P4rG6Kkae6VUQPF8lDkH7uCOqNDPVfo"></a></div></div>
+</div>
+	<div id="pie3">
+		<div class="piesecundario"><div class="parte4"><hr></div></div>
+	</div>
+	<div id="pie4">
+		<div class="piesecundario"><div class="parte4"><p>Copyright © 2018 Hotel El Angel en Huacho | Produccion Mallqui - Espinoza - Lindo | Peru | Fuentes, posicionamiento Google </p></div></div>
+	</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,138 @@
+/*Pie de pagina*/
+@media (min-width: 740px){
+			#pie2 .piesecundario{
+			width: 20%;
+			height: 100%;
+			float: left;
+		}
+		#pie2 .piesecundario1{
+			width: 30%;
+			height: 100%;
+			float: left;
+		}
+		}
+		@media (max-width: 739px){
+			.piesecundario, .piesecundario1{
+			margin:auto;
+			width: 70%;
+			height: 100%;
+			text-align: center;
+		}
+		}
+		#adicional{
+		width:100%;
+		height:25%;
+		background-color: black; 
+		overflow: hidden;
+		position: relative;
+		}
+
+		#pie1{
+			width: 100%;
+			height: 10%;
+		}
+		#pie1 .piesecundario{
+			width: 24%;
+			height: 100%;
+			float: left;
+		}
+		#pie1 .piesecundario hr{
+			width: 120%;
+		}
+		#piesecundariocentro{
+			width: 52%;
+			height: 100%;
+			float: left;
+			text-align: center;
+		}
+		.parte1{
+			width: 90%;
+			height: 100%;
+			float: left;
+			text-align: center;
+			padding-top: 6%;
+		}
+		.parte2{
+			width: 100%;
+		}
+		#pie2{
+			width: 100%;
+			height: 70%;
+		}
+		.parte3{
+			width: 90%;
+			height: 100%;
+			float: left;
+			padding-left: 12%;
+		}
+		#pie3{
+			width: 100%;
+			height: 10%;
+		}
+		#pie3 .piesecundario{
+			width: 100%;
+			height: 100%;
+			float: left;
+		}
+		#pie4{
+			width: 100%;
+			height: 10%;
+		}
+		#pie4 .piesecundario{
+			width: 100%;
+			height: 100%;
+			float: left;
+		}
+		#pie4 .piesecundario{
+			width: 100%;
+			height: 100%;
+			float: left;
+		}
+		.parte4{
+			width: 95%;
+			height: 100%;
+			padding-left: 3%;
+		}
+		#nave ul li{
+			display: inline;
+			padding: 1%;
+		}
+		.piesecundario p , .piesecundario1 p{
+			color: #7b7777;
+			font-size: 12px;
+			font-weight: 200;
+			font-family: Open Sans,serif;
+			text-align: justify;
+		}
+		#nave ul li a{
+			color: #7b7777;
+			transition: 1s;
+			text-decoration: none;
+			padding: 12px;
+			font-size: 18px;
+			font-family: Playfair Display,serif;
+			font-weight: 100;
+		}
+		#nave ul li a:hover{
+			color: white;
+		}
+		.piesecundario img{
+			width: 35px;
+			height: 35px;
+			filter: grayscale(100%);
+			transition: 0.5s;
+		}
+		.piesecundario img:hover{
+			filter: grayscale(0);
+		}
+		.piesecundario h5, .piesecundario1 h5{
+			margin-top: 0px;
+			color: white;
+			font-size: 17px;
+			font-weight: 200;
+			font-family: Open Sans,serif;
+		}
+		#nave{
+			width: 100%;
+		}
+		

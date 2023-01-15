@@ -1,0 +1,204 @@
+section{
+	width: 100%;
+}
+h1,h2,h3{
+	text-align: center;
+	font-family: Playfair Display,serif;
+	font-weight: 400;
+	line-height: 50px;
+}
+body{background-color: black;}
+.eltotal{
+	z-index: 1;
+	margin-top: 8em;
+	background-color: white;
+	height: 84em;
+}
+.ubicacionh{
+	z-index: 1;
+	margin-top: -28em;
+}
+#presentest{
+	margin-top: 1em;
+}
+.fondo{
+	z-index: -1;
+	position: relative;
+	width: 100%;
+	height: 30em;
+}
+@media screen and (max-width: 1060px){
+	.fondo{
+		width: 1060px;
+	}
+}
+.contac{
+	width: 100%;
+	top: 6em;
+}
+.contac h1{
+	width: 100%;
+	text-align: center;
+	color: white;
+	font-family: Playfair Display,serif;
+	font-size: 44px;
+	padding-top: 1em;
+	font-weight: 400;
+}
+#cajaubicacion{
+	width: 100%;
+	margin: auto;
+	height: 100%;
+	position: relative;
+	padding-top: 1px;
+}
+.mapa1{
+	width:97%;
+	float: none;
+	height: 29.5%;
+	background-color: rgba(217,217,217,1);
+	padding-left: 3%;
+	margin-top: -1em;
+	margin-bottom: -1em;
+}
+.mapa2{
+	width:97%;
+	margin-top: -23em;
+	height: 35%;
+	background-color: rgba(217,217,217,1);
+	padding-left: 3%;
+}
+#informe{
+	width: 32%;
+	padding: 1%;
+	height: 90%;
+	float: left;
+	position: relative;
+	font-family: Playfair Display,serif;
+}
+#informe h1, #loslugares h1{
+	border-bottom:1.5px solid #e2b43a;
+	margin-right: 10em;
+}
+#informe p, h1{
+	font-family: Playfair Display,serif;
+}
+#elmapa{
+	width: 63%;
+	height: 96%;
+	padding: 1%;
+	padding-top: 1.5%;
+	position: relative;
+	float: right;
+}
+#loslugares{
+	width: 30%;
+	height: 90%;
+	padding: 1%;
+	float: left;
+	position: relative;
+}
+.milista a {
+	font-family: Playfair Display,serif;
+	text-decoration: none;
+	font-size: 15px;
+	color: black;
+}
+#lasimagenes{
+	width: 63%;
+	height: 90%;
+	padding: 1%;
+	padding-top: 3.5%;
+	float: right;
+	position: relative;
+}
+/*mi formulario de ubicacion*/
+.formulario{
+	width: 60%;
+	margin: auto;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.formulario form{
+	width: 100%;
+
+}
+#formopinion legend img{
+	width: 12em;
+}
+.laimagen img{
+	width: 100%;
+	height: 24em;
+	border:4px solid white;
+}
+		#formopinion legend{
+			text-align: center;
+			font-size: 25px;
+			font-weight: 550;
+		}
+		#formopinion legend h5{
+			font-size: 12px;
+		}
+		#formopinion{
+			width: 80%;
+			padding-left: 10%;
+			padding-right: 10%;
+			margin: auto;
+			border:0;
+			margin-top: 1%;
+			font-family: Playfair Display,serif;
+		}
+		.texto{
+			width: 100%;
+			font-family: Playfair Display,serif;
+			font-size: 15px;
+			font-weight: 300;
+			text-align: left;
+		}
+		.caja2, .referencia{
+			width: 100%;
+			height: 40px;
+			padding-top: 1%;
+		}
+		.contenido2{
+			width: 100%;
+			margin-bottom: 0.5em;
+		}
+		.caja2 input{
+			width: 100%;
+			height: 80%;
+			text-transform: uppercase;
+			padding-left: 5px;
+		}
+		.referencia{
+			width: 100%;
+		}
+		.referencia select{
+			width: 18em;
+			height:87%;
+			text-transform: uppercase;
+			padding-left: 5%;
+			float: left;
+		}
+		.caja2 textarea{
+			width: 100%;
+			height: 90px;
+		}
+		#enviar2{
+			margin-top: 5em;
+		}
+		.boton2{
+			font-family: Playfair Display,serif;
+			margin-left: 5%;
+			width: 35%;
+			height: 45px;
+			background-color: #cca12f; 
+			text-align: center;
+			transition: 1s;
+			color: white;
+			border:0;
+		}
+		.boton2:hover{
+	background-color: #9e8645;
+	font-weight: 200;
+	color: white;

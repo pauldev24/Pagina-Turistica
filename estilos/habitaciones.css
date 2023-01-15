@@ -1,0 +1,59 @@
+html{
+	overflow-x: hidden;
+}
+section{
+	width: 100%;
+	margin-top: 40em;
+	position: relative;
+	z-index: 3;
+}
+@media (max-width:929px){
+	section{
+		margin-top: 60em;
+	}
+}
+h1,h2,h3{
+	text-align: center;
+	font-family: Playfair Display,serif;
+	font-weight: 400;
+	line-height: 50px;
+}
+/*entrada*/
+#habitacionh{
+	z-index: 1;
+	margin-top: -53em;
+}
+.fondo{
+	z-index: -3;
+	width: 100%;
+	height: 55em;
+}
+.fondo img{
+	z-index: -3;
+	position: fixed;
+}
+.resta{
+	width: 100%;
+	text-align: center;
+	margin-top: 10%;
+}
+.resta h1,.resta h2{
+	color: white;
+	width: 50%;
+	margin: auto;
+	font-size: 64px;
+}
+.resta h2{
+	font-size: 30px;
+}
+.resta img{
+	width: 16em;
+}
+/*formulario*/
+#registrohabi{
+	width: 100%;
+	background-color: #ccbb82;
+	margin-top:24em;
+	z-index: 1;
+	position: absolute;
+}

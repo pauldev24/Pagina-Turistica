@@ -1,0 +1,420 @@
+html{
+	overflow-x: hidden;
+}
+section{
+	width: 100%;
+	margin-top: 40em;
+	position: relative;
+	z-index: 3;
+}
+@media (max-width:929px){
+	section{
+		margin-top: 60em;
+	}
+}
+h1,h2,h3{
+	text-align: center;
+	font-family: Playfair Display,serif;
+	font-weight: 400;
+	line-height: 50px;
+}
+/*entrada*/
+#restauranteh{
+	z-index: 1;
+	margin-top: -53em;
+}
+.fondo{
+	z-index: -3;
+	width: 100%;
+	height: 55em;
+	
+}
+.fondo img{
+	z-index: -3;
+	position: fixed;
+}
+.resta{
+	width: 100%;
+	text-align: center;
+	margin-top: 10%;
+}
+.resta h1,.resta h2{
+	color: white;
+	width: 50%;
+	margin: auto;
+	font-size: 64px;
+}
+.resta h2{
+	font-size: 30px;
+}
+.resta img{
+	width: 16em;
+}
+/*formulario*/
+#registrorestau{
+	width: 100%;
+	background-color: #ccbb82;
+	margin-top:24em;
+	z-index: 1;
+	position: absolute;
+}
+/*presentacion*/
+#presentacionres,#secundariores{
+	position: relative;
+	width: 70%;
+	margin: auto;
+	margin-bottom: 5em;
+}
+#presentacionres h1{
+	font-size: 35px;
+}
+#secundariores h1{
+	font-size: 30px;
+} 
+/*contenido*/
+.cajacontenidop{
+	padding-top: 2em;
+}
+.cajacontenidop p{
+width: 80%;
+margin: auto;
+}
+/*segundo contenido*/
+#cajasecundaria2 .cajacontenido2 {
+	background-color: rgba(240, 240, 240, 1);
+}
+#cajasecundaria2 .cajacontenidop2{
+	text-align: justify;
+	font-family: Roboto,serif;
+	position: relative;
+	color: #3e3d3d;
+	font-size: 16px;
+	line-height: 22px;
+}
+#caja7 img,#caja9 img, #caja11 img{
+	width: 100%;
+	height: 100%;
+}
+.cajacontenido2 h1{
+	text-align: left;
+	font-family: Playfair Display,serif;
+	color: #403f3f;
+	font-size: 40px;
+}
+.cajacontenido2 h3{
+	border-bottom:2px solid #e2b43a;
+	width: 70px;
+	margin-top: -1em;
+}
+.boton2,.boton3{
+	font-family: Montserrat ,serif;
+	color: white;
+	font-weight: 500;
+	background-color: #e2b43a; 
+	font-size: 15px;
+	border:0;
+	transition: 1s;
+}
+.boton2{
+	width: 8em;
+	height: 2.5em;
+}
+.boton3{
+	width: 20em;
+	height: 2.5em;
+}
+.boton2:hover,.boton3:hover,.boton4:hover,.boton5:hover{
+	background-color: #9e8645;
+	font-weight: 200;
+	color: white;
+	text-decoration: underline;
+}
+/*cuadro inicial*/
+.derecha img{
+	width: 100%;
+	height: 100%;
+}
+#negro{
+	background-color:  #272727;
+}
+#blanco{
+	background-color: rgba(240, 240, 240, 1);
+}
+.contenido-ini{
+	width: 70%;;
+	margin: auto;
+	padding-top: 5em;
+	font-family: Roboto,serif;
+	color: #7b7777;
+	font-size: 17px;
+	line-height: 22px;
+}
+.contenido-ini h1{
+	text-align: justify;
+	color:  #e2b43a;
+	font-size: 36px;
+}
+.contenido-ini h3,.contenido-ini2 h3{
+	border-bottom:2px solid #e2b43a;
+	width: 70px;
+	margin-top: -1em;
+}
+.boton4{
+	width: 10em;
+	height: 2.5em;
+	margin-right: 1.5em;
+	font-family: Montserrat,serif;
+	background-color: #272727; 
+	text-align: center;
+	transition: 1s;
+	color: #cca12f;
+	border:2px solid #cca12f;
+	font-size: 15px;
+}
+.boton5{
+	width: 14em;
+	height: 2.5em;
+	margin-right: 1.5em;
+	font-family: Montserrat,serif;
+	background-color: #cca12f; 
+	text-align: center;
+	transition: 1s;
+	color: white;
+	border:2px solid #cca12f;
+	font-size: 15px;
+}
+.contenido-ini2{
+	width: 70%;;
+	margin: auto;
+	padding-top: 5em;
+	font-family: Roboto,serif;
+	color: #3e3d3d;
+	font-size: 17px;
+	line-height: 22px;
+}
+.contenido-ini2 h1{
+	text-align: justify;
+	color: #403f3f;
+	font-size: 36px;
+}
+@media screen and (min-width: 1065px){
+/*de la parte inicial*/
+#cajainicial{
+	width: 100%;
+	height: 90em;
+}
+.cajasecun{
+	width: 100%;
+	height: 45em;
+}
+.izquierda{
+	width: 50%;
+	height: 45em;
+	text-align: justify;
+	float: left;
+}
+.derecha{
+	width: 50%;
+	height: 45em;
+	float: right;
+}
+/*de la parte del bar*/
+#cajasecundaria2{
+width: 100%;
+height: 1680px;
+margin: auto;
+position: relative;
+overflow: hidden;
+}
+.mitotal{
+	width: 60%; padding-left: 8em;
+}
+.cajasecundaria2{
+width: 100%;
+height: 560px;
+}
+.cajacontenido2{
+width: 100%;
+height: 560px;
+}
+ #caja7{
+width: 50%;
+height: 560px;
+float: right;
+}
+ #caja8{
+width: 50%;
+height: 560px;
+float: left;
+border-bottom: 2px solid #e2b43a;
+}
+ #caja9{
+width: 50%;
+height: 560px;
+float: right;
+}
+ #caja10{
+width: 50%;
+height: 560px;
+float: left;
+border-bottom: 2px solid #e2b43a;
+}
+ #caja11{
+width: 50%;
+height: 560px;
+float: right;
+}
+ #caja12{
+width: 50%;
+height: 560px;
+float: left;
+}
+#cajasecundaria2 .cajacontenidop2{
+	width: 50%;
+	height: 460px;
+	padding-top: 5em;
+}
+}
+@media (max-width: 1064px) and (min-width: 531px){
+/*el fondo*/
+.fondo{
+	width: 1065px;
+}
+/*titulo de la entrada*/
+.resta h1{
+	font-size: 50px;
+}
+/*de la parte inicial*/
+#cajainicial{
+	width: 100%;
+	height: 180em;
+}
+.izquierda{
+	width: 100%;
+	height: 45em;
+	text-align: justify;
+}
+.derecha{
+	width: 100%;
+	height: 45em;
+}
+/*de la parte del bar*/
+#cajasecundaria2{
+width: 100%;
+height: 3000px;
+margin: auto;
+position: relative;
+overflow: hidden;
+}
+ #caja7{
+width: 100%;
+height: 600px;
+float: right;
+}
+ #caja8{
+width: 100%;
+height: 400px;
+float: left;
+text-align: center;
+}
+ #caja9{
+width: 100%;
+height: 600px;
+float: right;
+}
+ #caja10{
+width: 100%;
+height: 400px;
+float: left;
+}
+ #caja11{
+width: 100%;
+height: 600px;
+float: right;
+}
+ #caja12{
+width: 100%;
+height: 400px;
+float: left;
+}
+#cajasecundaria2 .cajacontenidop2{
+	width: 70%;
+	margin: auto;
+	padding-left: 6em;
+}
+}
+@media (max-width: 530px){
+	/*el fondo*/
+.fondo{
+	width: 1065px;
+}
+/*titulo de la entrada*/
+.resta h1{
+	font-size: 36px;
+}
+.resta h2{
+	font-size: 22px;
+	line-height: 22px;
+}
+/*de la parte inicial*/
+#cajainicial{
+	width: 100%;
+	height: 220em;
+}
+.izquierda{
+	width: 100%;
+	height: 55em;
+	text-align: justify;
+}
+.derecha{
+	width: 100%;
+	height: 55em;
+}
+.boton4,.boton5{
+	width: 7.5em;
+}
+/*de la parte del bar*/
+#cajasecundaria2{
+width: 100%;
+height: 3450px;
+margin: auto;
+position: relative;
+overflow: hidden;
+}
+ #caja7{
+width: 100%;
+height: 600px;
+float: right;
+}
+ #caja8{
+width: 100%;
+height: 550px;
+float: left;
+text-align: center;
+}
+ #caja9{
+width: 100%;
+height: 600px;
+float: right;
+}
+ #caja10{
+width: 100%;
+height: 550px;
+float: left;
+}
+ #caja11{
+width: 100%;
+height: 600px;
+float: right;
+}
+ #caja12{
+width: 100%;
+height: 550px;
+float: left;
+}
+#cajasecundaria2 .cajacontenidop2{
+	width: 70%;
+	margin: auto;
+	padding-left: 4em;
+}
+}

@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"p",
+				"parseFloat"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"contac",
+				"contactos"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"con",
+				"controls"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"tec",
+				"text-decoration-style"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "index.html",
+			"file_size": 100,
+			"file_write_time": 131792051881769916,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/H/proyecto de leon - grupo de espinoza/Proyecto del hotel/index.html",
+		"/H/proyecto de leon - grupo de espinoza/Proyecto del hotel/hotel.html",
+		"/C/Users/BLANCA/Desktop/df.html",
+		"/H/PracticafAlpes-Mallqui_Rivera_Paul/estilos.css",
+		"/H/PracticafAlpes-Mallqui_Rivera_Paul/form.html",
+		"/C/Users/BLANCA/Desktop/trabajode  grupo demallqui rivera paul - diseño2/Webtablas.html",
+		"/C/Users/BLANCA/Desktop/trabajode  grupo demallqui rivera paul - diseño2/WEBTABLAS.CSS",
+		"/C/xampp/htdocs/javascript/fd.html",
+		"/C/Users/BLANCA/Desktop/fibonacci.html",
+		"/C/xampp/htdocs/grupo2/repetitivas8/ejemplo8.php",
+		"/C/xampp/htdocs/javascript/repetitivas7.html",
+		"/C/xampp/htdocs/javascript/repetitivas8.html",
+		"/H/9.html",
+		"/C/xampp/htdocs/javascript/repetitivas6.html",
+		"/C/xampp/htdocs/grupo2/repetitivas7/ejemplo7.php",
+		"/C/xampp/htdocs/grupo2/repetitivas6/ejemplo6.php",
+		"/C/xampp/htdocs/javascript/repetitivas5.html",
+		"/C/xampp/htdocs/javascript/ejemplo17.html",
+		"/C/xampp/htdocs/javascript/ejemplo7.html",
+		"/C/xampp/htdocs/grupo2/repetitivas5/ejemplo5.php",
+		"/C/xampp/htdocs/javascript/repetitivas4.html",
+		"/C/xampp/htdocs/grupo2/repetitivas4/ejemplo4.php",
+		"/C/xampp/htdocs/javascript/repetitivas3.html",
+		"/C/xampp/htdocs/grupo2/repetitivas3/ejemplo3.php",
+		"/C/xampp/htdocs/javascript/repetitivas2.html",
+		"/C/xampp/htdocs/grupo2/repetitivas2/ejemplo2.php",
+		"/C/xampp/htdocs/javascript/repetitivas1.html",
+		"/C/xampp/htdocs/javascript/ejemplo19.html",
+		"/C/xampp/htdocs/grupo2/repetitivas/repetitivas1.php",
+		"/C/xampp/htdocs/javascript/ejemplo20.html",
+		"/C/xampp/htdocs/grupo2/ejemplo11/ejemplo11.php",
+		"/C/xampp/htdocs/grupo2/ejemplo10/ejemplo10.php",
+		"/C/xampp/htdocs/javascript/ejemplo12.html",
+		"/C/xampp/htdocs/grupo2/ejemplo8/ejemplo8.php",
+		"/C/xampp/htdocs/javascript/ejemplo16.html",
+		"/C/xampp/htdocs/javascript/ejemplo14.html",
+		"/C/xampp/htdocs/grupo2/ejemplo14/ejemplo14.php",
+		"/C/xampp/htdocs/grupo2/Ejemplo1/ejemplo1.php",
+		"/C/xampp/htdocs/javascript/ejemplo18.html",
+		"/C/xampp/htdocs/grupo2/ejemplo13/ejemplo13.php",
+		"/C/xampp/htdocs/grupo2/ejemplo14/ejemplo14.html",
+		"/C/xampp/htdocs/javascript/ejemplo13.html",
+		"/C/xampp/htdocs/javascript/ejemplo11.html",
+		"/C/xampp/htdocs/javascript/ejemplo10.html",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/LTTS_7-Jorge_HQ.log",
+		"/G/Loquendo/LTTS7/data/voices/Carlos/Carlos.32000.LTTS7Codec210.44000.10.bin",
+		"/C/xampp/htdocs/muestradatos/muestradatos.php",
+		"/C/xampp/htdocs/accseso/error.php",
+		"/C/xampp/htdocs/accseso/ingresointranet.php",
+		"/C/xampp/htdocs/accseso/verificardatos.php",
+		"/C/xampp/htdocs/accseso/formularioacceso.php",
+		"/C/Users/Maquina 01/Desktop/aqs.html",
+		"/C/xampp/htdocs/accseso/ingreso.php",
+		"/C/Users/Maquina 01/Downloads/C#/ChessGameForm.Designer.cs",
+		"/C/Users/Maquina 01/Downloads/C#/ChessGameForm.cs",
+		"/C/Users/Maquina 01/Downloads/C#/Controls/SquareControl.cs",
+		"/C/Users/Maquina 01/Downloads/C#/ChessGame.sln",
+		"/C/Users/Maquina 01/Downloads/C#/App.config",
+		"/C/Users/Maquina 01/Downloads/C#/ChessGame.csproj",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio1/ejemplo1.php",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio3/ejemplo3.php",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio2/ejemplo2.html",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio2/ejemplo2.php",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio1/ejercicio1.html",
+		"/C/Users/Maquina 01/Downloads/C#/Program.cs",
+		"/G/ejercicio2/ejemplo2.php",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio3/ejercicio.php",
+		"/C/xampp/htdocs/grupo2/examen1/ejercicio3/ejercicio3.html",
+		"/C/xampp/htdocs/grupo2/ejemplo10/ejemplo10.html",
+		"/C/xampp/htdocs/grupo2/repetitivas7/ejemplo7.html",
+		"/C/xampp/htdocs/grupo2/repetitivas6/ejemplo6.html",
+		"/C/xampp/htdocs/grupo2/ejemplo13/ejemplo13.html",
+		"/C/xampp/htdocs/grupo2/ejemplo12/ejemplo12.html",
+		"/C/xampp/htdocs/grupo2/ejemplo12/ejemplo12.php",
+		"/C/xampp/htdocs/grupo2/ejemplo6/ejemplo6.php",
+		"/C/xampp/htdocs/grupo2/ejemplo13/ejemplo13",
+		"/C/xampp/htdocs/grupo2/ejemplo7/ejemplo7.php",
+		"/C/xampp/htdocs/grupo2/ejemplo9/ejemplo9.php",
+		"/C/xampp/htdocs/grupo2/ejemplo6/ejemplo6.html",
+		"/C/xampp/htdocs/grupo2/ejemplo11/ejemplo11.html",
+		"/C/xampp/htdocs/grupo2/ejemplo9/ejemplo9.html",
+		"/C/xampp/htdocs/grupo2/ejemplo8/ejemplo8.html",
+		"/C/xampp/htdocs/grupo2/ejemplo7/ejemplo7.html",
+		"/C/xampp/htdocs/grupo2/ejemplo5/ejemplo5.php",
+		"/C/xampp/htdocs/grupo2/ejemplo5/ejemplo5.html",
+		"/C/xampp/htdocs/grupo2/ejemplo4/ejemplo4.php",
+		"/C/xampp/htdocs/grupo2/ejemplo4/ejemplo4.html",
+		"/C/xampp/htdocs/grupo2/resultado.php",
+		"/C/xampp/htdocs/grupo2/ejemplo3/ejemplo3.php",
+		"/C/xampp/htdocs/grupo2/ejemplo5.html",
+		"/C/xampp/htdocs/grupo2/ejemplo2/ejemplo2.php",
+		"/C/xampp/htdocs/grupo2/ejemplo2/ejemplo2.html",
+		"/C/xampp/htdocs/grupo2/ejemplo3.php",
+		"/C/xampp/htdocs/grupo2/ejemplo.php",
+		"/C/xampp/htdocs/grupo2/Ejemplo1/ejemplo1.html",
+		"/C/xampp/htdocs/grupo2/ejemplo3/ejemplo3.html",
+		"/C/xampp/htdocs/grupo2/Ejemplo1/resultado.php",
+		"/C/xampp/htdocs/grupo2/ejemplo2.php",
+		"/C/xampp/htdocs/grupo2/ejemplo1.php",
+		"/C/xampp/htdocs/grupo2/ejemplo5.php",
+		"/C/xampp/htdocs/grupo2/ejemplo4.php",
+		"/C/xampp/htdocs/BlogPersonal/contacto.html",
+		"/C/xampp/htdocs/BlogPersonal/index.html",
+		"/C/xampp/htdocs/BlogPersonal/estilos/estilos.css",
+		"/C/xampp/htdocs/grupo2/formulario.html",
+		"/C/xampp/htdocs/BlogPersonal/noticias.html",
+		"/C/xampp/htdocs/grupo2/ejemplo4.html",
+		"/G/Tecnologias Web/Clase2/Proyecto Webblog/php/enviamail.php",
+		"/G/Tecnologias Web/Clase5/Mallqui Rivera Paul Lenyn/index.html",
+		"/G/archivos/logo.svg",
+		"/G/Tecnologias Web/Clase2/Proyecto Webblog/estilos/estilos.css",
+		"/G/Tecnologias Web/Clase2/Proyecto Webblog/index",
+		"/G/Tecnologias Web/Clase2/Proyecto Webblog/estilos/estilo.css",
+		"/G/Tecnologias Web/Clase2/Proyecto Webblog/sobremi",
+		"/G/practica/Practica numero 2/estilos.css",
+		"/G/practica/Practica numero1/estilos.css",
+		"/G/practica/Practica numero1/index.html",
+		"/G/Tecnologias Web/Clase 1/Practica html/index.html",
+		"/G/Tecnologias Web/Clase2/Proyecto Webblog/img/alimentacion_tigre.jpg",
+		"/G/practica/Practica numero 2/index.html",
+		"/C/Users/Maquina 01/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"td"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hotel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
